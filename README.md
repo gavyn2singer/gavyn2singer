@@ -1,5 +1,4 @@
-## Hi there 👋
-   ## Gavyn Singer
+## Gavyn Singer
 
    Salesforce Certified Platform Administrator looking for Salesforce admin, sales operations, and revenue operations roles. Former BDR (Salesforce, Salesloft) and music academy operations assistant.
 
