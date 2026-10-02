@@ -1,5 +1,7 @@
 ## Hi there 👋
+Salesforce Certified Platform Administrator looking for Salesforce admin, sales operations, and revenue operations roles. Former BDR (Salesforce, Salesloft) and music academy operations assistant.
 
+Featured project: Music School CRM: lead routing, follow-up automation, role-based security, and dashboards built in Salesforce. 5-minute demo
 <!--
 **gavyn2singer/gavyn2singer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
